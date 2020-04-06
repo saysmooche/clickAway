@@ -1,0 +1,2 @@
+rootProject.name='click Away'
+include ':app'
